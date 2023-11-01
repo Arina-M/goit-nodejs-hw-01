@@ -1,8 +1,7 @@
-update – https://monosnap.com/file/x2yNrYfwxGe8N49mXohBJkw8EfTCf5 
+1. list, get - https://monosnap.com/file/a1BD5SFZOeSTl3FPak2JVhKDSlOVgG
 
+2. list - https://monosnap.com/file/2c4dYFGRJC6SdziTruftmPPUWLJ3Fp
 
-https://monosnap.com/file/SXtDKS9bDN5sZiHXELj9FwoIMtVwUQ
+3. get, add - https://monosnap.com/file/Dq13xIU25Uj23BfHGAvCtYH9NsuJc0
 
-https://monosnap.com/file/ylPljgwPjOhvhFAJJdVyEANOPIhMOJ
-
-https://monosnap.com/file/YMe3ALW5FSbUHuJzIIyRo8PFCLyaqM# goit-node-js-hw-1
+4. update, remove - https://monosnap.com/file/eVgibOiPjjq8sm9dUN0al6PLIfy0X2
